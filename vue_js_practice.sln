@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vue_js_practice", "vue_js_practice\vue_js_practice.esproj", "{D5FAFE6B-818F-824F-855B-E5BB826BECFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5FAFE6B-818F-824F-855B-E5BB826BECFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E149A6AA-4D5B-4C3C-8335-CCBCC83ADF05}
+	EndGlobalSection
+EndGlobal
